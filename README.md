@@ -40,7 +40,7 @@ This project focuses on developing a Selenium automation framework using Java an
 
 <h2><b>Demo Video</b></h2>
 
-[![Demo Video]](https://drive.google.com/file/d/1gWiUjO1paBwyG3Gt880z_sAvtQ16RHff/preview)
+
 
 
 
