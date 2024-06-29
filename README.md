@@ -4,13 +4,43 @@ This project focuses on developing a Selenium automation framework using Java an
 
 <h3><b>Key Objectives</b></h3>
 <ul>
-<li></li>Automated Testing: Utilize Selenium WebDriver to automate interactions with the Cura Healthcare demo site.</li>
   
-</li>Functional Coverage: Cover a wide range of functionalities including login, appointment scheduling,and navigation.</li>
+<li>Automated Testing: Utilize Selenium WebDriver to automate interactions with the Cura Healthcare demo site.</li><br>
+  
+</li>Functional Coverage: Cover a wide range of functionalities including login, appointment scheduling,and navigation.</li><br>
 
-<li>Validation: Validate that key features such as login authentication, appointment creation, and navigation across different sections of the site perform as expected.</li>
+<li>Validation: Validate that key features such as login authentication, appointment creation, and navigation across different sections of the site perform as expected.</li><br>
 
-<li>Integration with Eclipse: Leverage Eclipse IDE for Java to write, manage, and execute test scripts efficiently.</li>
+<li>Integration with Eclipse: Leverage Eclipse IDE for Java to write, manage, and execute test scripts efficiently.</li><br>
 
-<h3><b>Features Covered</b></h3>
+<h3><b>Test cases</b></h3>
+
+<h2><b>Login Tests</b></h2>
+
+<li>Test valid login: Verifies that a user can log in with valid credentials.</li><br>
+<li>test invalid login: Checks that appropriate error messages are displayed for invalid login attempts.</li><br>
+
+<h2><b>Appointment Tests</b></h2>
+
+<li>Test make appointment: Ensures that a user can successfully make an appointment.</li><br>
+<li>Test appointment history: Verifies that the user's appointment history is correctly displayed.</li><br>
+
+<h2><b>Navigation Tests</b></h2>
+
+<li>Test homepage navigation: Ensures that all main navigation links on the homepage work as expected.</li><br>
+<li>Test navigation after login: Verifies that the navigation links after login direct to the correct pages.</li><br>
+
+
+
+<h3><b>Tool Used</b></h3>
+
+<li>Selenium WebDriver: Automates web browser interactions for testing purposes.</li><br>
+
+<li>Java: Programming language used for writing test scripts and interacting with Selenium WebDriver.</li><br>
+
+<li>Eclipse IDE: Integrated development environment providing tools for Java development and project management</li><br>
+
+
+
+
 
