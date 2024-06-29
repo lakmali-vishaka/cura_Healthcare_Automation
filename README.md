@@ -39,8 +39,7 @@ This project focuses on developing a Selenium automation framework using Java an
 <li>Eclipse IDE: Integrated development environment providing tools for Java development and project management</li>
 
 <h2><b>Demo Video</b></h2>
-https://github.com/lakmali-vishaka/cura_Healthcare_Automation/issues/6#issue-2381486519
-
+[![Demo Video](https://github.com/lakmali-vishaka/cura_Healthcare_Automation/issues/6#issue-2381486519)](https://github.com/lakmali-vishaka/cura_Healthcare_Automation/issues/6#issue-2381486519)
 
 
 
