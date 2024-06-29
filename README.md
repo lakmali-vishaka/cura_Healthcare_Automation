@@ -6,7 +6,7 @@ This project focuses on developing a Selenium automation framework using Java an
 <ul>
   
 <li>Automated Testing: Utilize Selenium WebDriver to automate interactions with the Cura Healthcare demo site.</li><br>
-  
+
 </li>Functional Coverage: Cover a wide range of functionalities including login, appointment scheduling,and navigation.</li><br>
 
 <li>Validation: Validate that key features such as login authentication, appointment creation, and navigation across different sections of the site perform as expected.</li><br>
