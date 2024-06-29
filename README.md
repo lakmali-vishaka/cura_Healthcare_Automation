@@ -1,8 +1,8 @@
-<h3><b>Project Overview</b></h3>
+<h2><b>Project Overview</b></h2>
 
 This project focuses on developing a Selenium automation framework using Java and Eclipse IDE for testing the functionalities of the Cura Healthcare demo site. The automation framework aims to validate and ensure the proper functioning of  provided by the healthcare site.
 
-<h3><b>Key Objectives</b></h3>
+<h2><b>Key Objectives</b></h2>
 <ul>
   
 <li>Automated Testing: Utilize Selenium WebDriver to automate interactions with the Cura Healthcare demo site.</li><br>
@@ -13,26 +13,26 @@ This project focuses on developing a Selenium automation framework using Java an
 
 <li>Integration with Eclipse: Leverage Eclipse IDE for Java to write, manage, and execute test scripts efficiently.</li><br>
 
-<h3><b>Test cases</b></h3>
+<h2><b>Test cases</b></h2>
 
-<h2><b>Login Tests</b></h2>
+<h3><b>Login Tests</b></h3>
 
 <li>Test valid login: Verifies that a user can log in with valid credentials.</li><br>
 <li>test invalid login: Checks that appropriate error messages are displayed for invalid login attempts.</li><br>
 
-<h2><b>Appointment Tests</b></h2>
+<h3><b>Appointment Tests</b></h3>
 
 <li>Test make appointment: Ensures that a user can successfully make an appointment.</li><br>
 <li>Test appointment history: Verifies that the user's appointment history is correctly displayed.</li><br>
 
-<h2><b>Navigation Tests</b></h2>
+<h3><b>Navigation Tests</b></h3>
 
 <li>Test homepage navigation: Ensures that all main navigation links on the homepage work as expected.</li><br>
 <li>Test navigation after login: Verifies that the navigation links after login direct to the correct pages.</li><br>
 
 
 
-<h3><b>Tool Used</b></h3>
+<h2><b>Tool Used</b></h2>
 
 <li>Selenium WebDriver: Automates web browser interactions for testing purposes.</li><br>
 
