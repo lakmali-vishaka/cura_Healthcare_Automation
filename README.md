@@ -1,6 +1,6 @@
 <h2><b>Project Overview</b></h2>
 
-This project focuses on developing a Selenium automation framework using Java and Eclipse IDE for testing the functionalities of the Cura Healthcare demo site covering <i><b>dropdowns, checkboxes, radio buttons, date pickers, text inputs, and button clicks.</b></i> The automation framework aims to validate and ensure the proper functioning of  provided by the healthcare site.
+This project focuses on developing a Selenium automation framework using Java and Eclipse IDE for testing the functionalities of the Cura Healthcare demo site covering <i><b><text color="red">dropdowns, checkboxes, radio buttons, date pickers, text inputs, and button clicks.</text></b></i> The automation framework aims to validate and ensure the proper functioning of  provided by the healthcare site.
 
 <h2><b>Key Objectives</b></h2>
 <ul>
